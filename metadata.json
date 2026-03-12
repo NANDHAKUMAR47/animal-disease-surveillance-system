@@ -1,0 +1,7 @@
+{
+  "name": "Copy of REAL of Tamil Nadu Animal Disease Surveillance System",
+  "description": "A comprehensive system for reporting, monitoring, and managing zoonotic disease outbreaks with real-time analytics, automated alerts, and an AI-powered veterinary assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
